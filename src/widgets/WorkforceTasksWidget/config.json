@@ -1,0 +1,77 @@
+{
+  "portalUrl": "http://isovistdev.maps.arcgis.com/",
+  "targetLayerUrl": "http://www.isovist.co.nz/arcgis/rest/services/IRS/Reporting/FeatureServer/3",
+  "workIdField": "OBJECTID",
+  "projects": [
+    {
+      "projectUrl": "http://workforce.arcgis.com/projects/9fcb1792a4a2497cbfdae73bf903f2ae/dispatch/assignments",
+      "name": "Surveillance",
+      "url": "http://services1.arcgis.com/YFRZ5T5eRL3tLQNK/ArcGIS/rest/services/assignments_762892ce0e5a49629ca94637493624d2/FeatureServer/0",
+      "assignments": [
+        {
+          "code": 1,
+          "description": "Deliver and Serve a Directive"
+
+        },
+        {
+          "code": 2,
+          "description": "Entered By Devious Means"
+
+        },
+        {
+          "code": 3,
+          "description": "Post Mortems"
+
+        },
+        {
+          "code": 4,
+          "description": "Statistical Serological Sampling"
+
+        },
+
+        {
+          "code": 6,
+          "description": "Testing for report cases"
+
+        },
+        {
+          "code": 7,
+          "description": "Testing of high risk conveyors"
+
+        },
+        {
+          "code": 5,
+          "description": "Testing medium risk conveyors"
+
+        },
+        {
+          "code": 8,
+          "description": "3 month testing after an exposure"
+
+        },
+        {
+          "code": 9,
+          "description": "Telephone Surveillance"
+
+        },
+        {
+          "code": 10,
+          "description": "Vaccination for Prevention"
+
+        }
+      ]
+    },
+    {
+      "projectUrl": "http://workforce.arcgis.com/projects/6c3adccf33db4edaaf524dda7819ff56/dispatch/assignments",
+      "name": "Management",
+      "url": "http://services1.arcgis.com/YFRZ5T5eRL3tLQNK/arcgis/rest/services/assignments_46cd225e00bf41008f2149c19c1b705d/FeatureServer/0",
+      "assignments": [
+        {
+          "code": 0,
+          "description": ""
+        }
+      ]
+
+    }
+  ]
+}
